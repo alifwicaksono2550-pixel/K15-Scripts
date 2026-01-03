@@ -232,4 +232,3 @@ task.spawn(function()
        task.wait(10) -- Jeda lebih lama agar daftar tidak sering berkedip/hilang
    end
 end)
-
